@@ -1,36 +1,46 @@
-# Hey, I'm Deandre 👋
+# Deandre Wilson
 
-Aspiring Cloud & Security Engineer learning in public.  
-Right now I'm focused on AWS, Terraform, and Python — and turning hands-on labs into real projects.
+Cloud and security-focused engineer working across AWS, Terraform, and Python.
 
-## What I'm working on
+Current work centers on secure cloud architecture, infrastructure as code, and building hands-on projects that translate core concepts into practical implementations.
 
-- Cloud Mastery Bootcamp (Neal Davis / Digital Cloud Training) — Cloud Security Engineer track  
-- AWS Solutions Architect Associate (SAA-C03) — working through core material, labs, and architecture patterns  
-- Building a practical cloud security portfolio with small, focused projects  
-- Growing **CyberNest** as my long-term home for security and cloud ideas
+## Focus
 
-## Current focus areas
-
-- Designing secure AWS architectures (VPC, IAM, S3, networking, monitoring)
+- AWS architecture, networking, and security design
 - Infrastructure as Code with Terraform
-- Python for automation and tooling around cloud and security
+- Python for cloud automation and tooling
+- Building portfolio-grade cloud and security projects
+- Developing CyberNest as a long-term platform for cloud and security work
 
-## Labs & projects
+## Current Work
 
-- [**aws-saa-labs**](https://github.com/NestHunter/aws-saa-labs) — Hands-on labs and study notes from my Solutions Architect journey. Covers VPC networking, NAT Gateway configuration, ALB troubleshooting, and more.
-- [**cloud-security-portfolio**](https://github.com/NestHunter/cloud-security-portfolio) — Central hub for my AWS and cloud security work. Tracks active projects, planned builds, and links out to repos.
-- Future: secure S3 static site, three-tier AWS app, Terraform VPC and security labs
+- Cloud Mastery Bootcamp (Neal Davis / Digital Cloud Training), focused on the Cloud Security Engineer track
+- AWS Solutions Architect Associate (SAA-C03) preparation through labs, architecture patterns, and applied study
+- Expanding hands-on AWS projects with an emphasis on networking, IAM, monitoring, and resilient design
+- Turning foundational lab work into more complete cloud and security implementations
 
-## How I work
+## Projects
 
-- I learn by building small, real-world style projects instead of hello-world demos.
-- I document what I'm learning so others — and future me — can follow along.
-- I care about clarity, security best practices, and explaining the *why* behind design choices.
+- [`aws-saa-labs`](https://github.com/NestHunter/aws-saa-labs) — Hands-on AWS labs covering VPC networking, NAT Gateway configuration, Lambda VPC integration, EC2, EBS, troubleshooting, and core architecture patterns
+- [`cloud-security-portfolio`](https://github.com/NestHunter/cloud-security-portfolio) — Central hub for cloud and security work, active builds, and planned projects
+- **CyberNest** — Long-term home for applied cloud, security, and infrastructure ideas
+
+## Technical Interests
+
+- Secure AWS network design across public and private subnets
+- IAM, least privilege, and cloud security controls
+- Terraform-based environment provisioning
+- Observability, troubleshooting, and infrastructure reliability
+- Python-driven automation for cloud and security workflows
+
+## Approach
+
+- Build around real infrastructure patterns rather than isolated demos
+- Document work clearly enough to show design decisions, troubleshooting, and outcomes
+- Prioritize security, clarity, and repeatable implementation
+- Use projects as a bridge between study, portfolio development, and practical application
 
 ## Connect
 
+- [GitHub](https://github.com/NestHunter)
 - [LinkedIn](https://www.linkedin.com/in/deandre-wilson-939217141)
-- [CyberNest](https://cybernesthub.com/)
-
-If you have suggestions for projects that fit an early-career Cloud Security Engineer path, I'm always open to ideas.
