@@ -21,7 +21,7 @@ Current work centers on secure cloud architecture, infrastructure as code, and b
 
 ## Projects
 
-- [`aws-saa-labs`](https://github.com/NestHunter/aws-saa-labs) — Hands-on AWS labs covering VPC networking, NAT Gateway configuration, Lambda VPC integration, EC2, EBS, troubleshooting, and core architecture patterns
+- [`aws-saa-labs`](https://github.com/NestHunter/aws-saa-labs) — Structured hands-on lab repository covering VPC networking, NAT Gateway configuration, Lambda VPC integration, API Gateway, serverless application architecture (SQS, DynamoDB), EBS storage, and troubleshooting across compute and networking layers
 - [`cloud-security-portfolio`](https://github.com/NestHunter/cloud-security-portfolio) — Central hub for cloud and security work, active builds, and planned projects
 - **CyberNest** — Long-term home for applied cloud, security, and infrastructure ideas
 
