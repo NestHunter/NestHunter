@@ -1,14 +1,23 @@
 # Deandre Wilson
 
-Cloud and security-focused engineer working across AWS, Terraform, and Python.
+Cloud and security-focused engineer building toward AWS architecture and cloud security. Currently deep in AWS foundations — VPC networking, serverless, IAM, and storage — with Terraform and Python automation on the near-term roadmap.
 
-Current work centers on secure cloud architecture, infrastructure as code, and building hands-on projects that translate core concepts into practical implementations.
+Coming from a cybersecurity investigations background and building in public as I go.
+
+## Currently
+
+- Preparing for **AWS Solutions Architect Associate (SAA-C03)** — Cloud Mastery Bootcamp (Neal Davis) + hands-on labs
+- Building `aws-saa-labs`: hands-on lab documentation for every major topic on the SAA path
+- Planning the next phase of **CyberNest** infrastructure on AWS
+- Next up: IAM deep-dive, S3 security, and Route 53
+
+---
 
 ## Focus
 
 - AWS architecture, networking, and security design
-- Infrastructure as Code with Terraform
-- Python for cloud automation and tooling
+- Infrastructure as Code with Terraform *(learning — not yet in repos)*
+- Python for cloud automation and tooling *(learning — not yet in repos)*
 - Building portfolio-grade cloud and security projects
 - Developing CyberNest as a long-term platform for cloud and security work
 
