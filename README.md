@@ -10,7 +10,7 @@ Coming from a cybersecurity investigations background and building in public as 
 - AWS Certified Solutions Architect – Associate (SAA-C03)
 
 **Security**
-- CompTIA CASP+ (Advanced Security Practitioner)
+- CompTIA SecurityX(CASP+) (Advanced Security Practitioner)
 - CompTIA CySA+ (Cybersecurity Analyst)
 - CompTIA Security+
 - ISC2 Certified in Cybersecurity (CC)
