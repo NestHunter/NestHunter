@@ -6,7 +6,7 @@ Coming from a cybersecurity investigations background and building in public as 
 
 ## Certifications
 
-- **AWS Certified Solutions Architect – Associate (SAA-C03)** — August 2026
+- **AWS Certified Solutions Architect – Associate (SAA-C03)**
 
 ## Currently
 
