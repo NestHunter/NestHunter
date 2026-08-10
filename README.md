@@ -1,16 +1,20 @@
 # Deandre Wilson
 
-Cloud and security-focused engineer building toward AWS architecture and cloud security. Currently deep in AWS foundations — VPC networking, serverless, IAM, and storage — with Terraform and Python automation on the near-term roadmap.
+Cloud and security-focused engineer with an AWS Solutions Architect – Associate credential, now specializing in cloud security. Deep in IAM, threat detection, and serverless architecture, with Terraform and Python automation on the near-term roadmap.
 
 Coming from a cybersecurity investigations background and building in public as I go.
 
+## Certifications
+
+- **AWS Certified Solutions Architect – Associate (SAA-C03)** — August 2026
+
 ## Currently
 
-- Preparing for **AWS Solutions Architect Associate (SAA-C03)** through the Cloud Mastery Bootcamp (Neal Davis / Digital Cloud Training), with a focus on the Cloud Security Engineer track
-- Building `aws-labs`: hands-on lab documentation covering VPC networking, serverless architecture, IAM, storage, and troubleshooting across the SAA path
+- Pursuing **AWS Certified Security – Specialty (SCS-C02)** through the Cloud Mastery Bootcamp (Neal Davis / Digital Cloud Training), the next step after SAA-C03
+- Building `aws-labs`: hands-on lab documentation covering VPC networking, serverless architecture, IAM, storage, and troubleshooting across the AWS learning path
 - Expanding those labs into more complete cloud and security implementations, with an emphasis on networking, IAM, and monitoring
 - Planning the next phase of [CyberNest](https://cybernesthub.com/) infrastructure on AWS
-- Next up: IAM deep-dive, S3 security, and Route 53
+- Next up: advanced IAM, KMS, and threat detection (GuardDuty, Security Hub) as part of Security Specialty prep
 
 ---
 
