@@ -6,9 +6,10 @@ Coming from a cybersecurity investigations background and building in public as 
 
 ## Currently
 
-- Preparing for **AWS Solutions Architect Associate (SAA-C03)** — Cloud Mastery Bootcamp (Neal Davis) + hands-on labs
-- Building `aws-labs`: hands-on lab documentation for every major topic on the SAA path
-- Planning the next phase of **CyberNest** infrastructure on AWS
+- Preparing for **AWS Solutions Architect Associate (SAA-C03)** through the Cloud Mastery Bootcamp (Neal Davis / Digital Cloud Training), with a focus on the Cloud Security Engineer track
+- Building `aws-labs`: hands-on lab documentation covering VPC networking, serverless architecture, IAM, storage, and troubleshooting across the SAA path
+- Expanding those labs into more complete cloud and security implementations, with an emphasis on networking, IAM, and monitoring
+- Planning the next phase of [CyberNest](https://cybernesthub.com/) infrastructure on AWS
 - Next up: IAM deep-dive, S3 security, and Route 53
 
 ---
@@ -19,20 +20,11 @@ Coming from a cybersecurity investigations background and building in public as 
 - Infrastructure as Code with Terraform *(learning — not yet in repos)*
 - Python for cloud automation and tooling *(learning — not yet in repos)*
 - Building portfolio-grade cloud and security projects
-- Developing CyberNest as a long-term platform for cloud and security work
-
-## Current Work
-
-- Cloud Mastery Bootcamp (Neal Davis / Digital Cloud Training), focused on the Cloud Security Engineer track
-- AWS Solutions Architect Associate (SAA-C03) preparation through labs, architecture patterns, and applied study
-- Expanding hands-on AWS projects with an emphasis on networking, IAM, monitoring, and resilient design
-- Turning foundational lab work into more complete cloud and security implementations
 
 ## Projects
 
 - [`aws-labs`](https://github.com/NestHunter/aws-labs) — Structured hands-on lab repository covering VPC networking, NAT Gateway configuration, Lambda VPC integration, API Gateway, serverless application architecture (SQS, DynamoDB), EBS storage, and troubleshooting across compute and networking layers
 - [`cloud-security-portfolio`](https://github.com/NestHunter/cloud-security-portfolio) — Central hub for cloud and security work, active builds, and planned projects
-- **CyberNest** — Long-term home for applied cloud, security, and infrastructure ideas
 
 ## Technical Interests
 
