@@ -1,58 +1,58 @@
 # Deandre Wilson
 
-Cloud and security-focused engineer with an AWS Solutions Architect – Associate credential, now specializing in cloud security. Deep in IAM, threat detection, and serverless architecture, with Terraform and Python automation on the near-term roadmap.
+Information security investigator moving into cloud security engineering on AWS. My background is in security investigations and operations, so I build from the analyst's side: how an incident is detected, what evidence matters, and how a response can be controlled and verified.
 
-Coming from a cybersecurity investigations background and building in public as I go.
+I build in public. Each project lives in its own repository with its design decisions, validation evidence, and lessons learned.
+
+---
+
+## Featured Projects
+
+| Project | What it demonstrates | Status |
+|---|---|---|
+| **AWS Detection and Response Platform** | Turning GuardDuty findings into enriched, consistent incident records with EventBridge, Lambda (Python), DynamoDB, S3, and SNS, provisioned with Terraform. Response actions require explicit approval and rollback. | In progress |
+| [`aws-labs`](https://github.com/NestHunter/aws-labs) | Hands-on AWS builds and troubleshooting across VPC networking, NAT, Lambda in a VPC, API Gateway, SQS, DynamoDB, EBS, and ALB. | 8 labs documented |
+| [`cloud-security-portfolio`](https://github.com/NestHunter/cloud-security-portfolio) | IAM access control assessment (identity and resource policies, ABAC, permissions boundaries) and a least-privilege policy library (SCPs, KMS, cross-account roles, VPC Flow Logs). | Active |
+
+## Building Next
+
+- **Incident investigations:** SOC alert investigations written up as case reports, covering triage, evidence, verdict, and containment reasoning.
+- **Detection rules:** Detection logic developed alongside the Detection and Response Platform, mapped to MITRE ATT&CK and tested against sample events.
+- **Python security tools:** Small, focused utilities for investigation and cloud security workflows.
+
+---
 
 ## Certifications
 
 **Cloud**
-- AWS Certified Solutions Architect – Associate (SAA-C03)
+- AWS Certified Solutions Architect - Associate (SAA-C03)
 
 **Security**
-- CompTIA SecurityX(CASP+) (Advanced Security Practitioner)
-- CompTIA CySA+ (Cybersecurity Analyst)
+- CompTIA SecurityX (formerly CASP+)
+- CompTIA CySA+
 - CompTIA Security+
 - ISC2 Certified in Cybersecurity (CC)
 
 ## Currently
 
-- Pursuing **AWS Certified Security – Specialty (SCS-C02)** through the Cloud Mastery Bootcamp (Neal Davis / Digital Cloud Training), the next step after SAA-C03
-- Building `aws-labs`: hands-on lab documentation covering VPC networking, serverless architecture, IAM, storage, and troubleshooting across the AWS learning path
-- Expanding those labs into more complete cloud and security implementations, with an emphasis on networking, IAM, and monitoring
-- Planning the next phase of [CyberNest](https://cybernesthub.com/) infrastructure on AWS
-- Next up: advanced IAM, KMS, and threat detection (GuardDuty, Security Hub) as part of Security Specialty prep
+- Studying for the **AWS Certified Security - Specialty (SCS-C03)**
+- Building the Detection and Response Platform one guided lab at a time, starting with a locally tested Python finding processor
 
----
+## Focus Areas
 
-## Focus
-
-- AWS architecture, networking, and security design
-- Infrastructure as Code with Terraform *(learning — not yet in repos)*
-- Python for cloud automation and tooling *(learning — not yet in repos)*
-- Building portfolio-grade cloud and security projects
-
-## Projects
-
-- [`aws-labs`](https://github.com/NestHunter/aws-labs) — Structured hands-on lab repository covering VPC networking, NAT Gateway configuration, Lambda VPC integration, API Gateway, serverless application architecture (SQS, DynamoDB), EBS storage, and troubleshooting across compute and networking layers
-- [`cloud-security-portfolio`](https://github.com/NestHunter/cloud-security-portfolio) — Central hub for cloud and security work, active builds, and planned projects
-
-## Technical Interests
-
-- Secure AWS network design across public and private subnets
-- IAM, least privilege, and cloud security controls
-- Terraform-based environment provisioning
-- Observability, troubleshooting, and infrastructure reliability
-- Python-driven automation for cloud and security workflows
+- Threat detection and incident response in AWS
+- IAM, least privilege, and preventive guardrails
+- Infrastructure as Code with Terraform
+- Python for security automation
 
 ## Approach
 
-- Build around real infrastructure patterns rather than isolated demos
-- Document work clearly enough to show design decisions, troubleshooting, and outcomes
-- Prioritize security, clarity, and repeatable implementation
-- Use projects as a bridge between study, portfolio development, and practical application
+- Build around real security workflows rather than isolated demos
+- Validate every step and document failures alongside successes
+- Separate what was tested from what is planned
+- Keep public evidence sanitized
 
 ## Connect
 
-- [GitHub](https://github.com/NestHunter)
 - [LinkedIn](https://www.linkedin.com/in/deandre-wilson-939217141)
+- [CyberNest](https://cybernesthub.com/)
