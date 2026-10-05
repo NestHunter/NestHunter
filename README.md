@@ -12,7 +12,7 @@ I build in public. Each project lives in its own repository with its design deci
 |---|---|---|
 | **AWS Detection and Response Platform** | Turning GuardDuty findings into enriched, consistent incident records with EventBridge, Lambda (Python), DynamoDB, S3, and SNS, provisioned with Terraform. Response actions require explicit approval and rollback. | In progress |
 | [`aws-labs`](https://github.com/NestHunter/aws-labs) | Hands-on AWS builds and troubleshooting across VPC networking, NAT, Lambda in a VPC, API Gateway, SQS, DynamoDB, EBS, and ALB. | 8 labs documented |
-| [`cloud-security-portfolio`](https://github.com/NestHunter/cloud-security-portfolio) | IAM access control assessment (identity and resource policies, ABAC, permissions boundaries) and a least-privilege policy library (SCPs, KMS, cross-account roles, VPC Flow Logs). | Active |
+| [`aws-iam-security-policies`](https://github.com/NestHunter/aws-iam-security-policies) | IAM access control assessment (identity and resource policies, ABAC, permissions boundaries) and a least-privilege policy library (SCPs, KMS, cross-account roles, VPC Flow Logs). | Active |
 
 ## Building Next
 
