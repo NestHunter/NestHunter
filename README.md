@@ -2,7 +2,7 @@
 
 Information security investigator moving into cloud security engineering on AWS. My background is in security investigations and operations, so I build from the analyst's side: how an incident is detected, what evidence matters, and how a response can be controlled and verified.
 
-I build in public. Each project lives in its own repository with its design decisions, validation evidence, and lessons learned.
+I document my work as I build. Each project lives in its own repository with its design decisions, validation evidence, and lessons learned.
 
 ---
 
@@ -10,7 +10,7 @@ I build in public. Each project lives in its own repository with its design deci
 
 | Project | What it demonstrates | Status |
 |---|---|---|
-| **AWS Detection and Response Platform** | Turning GuardDuty findings into enriched, consistent incident records with EventBridge, Lambda (Python), DynamoDB, S3, and SNS, provisioned with Terraform. Response actions require explicit approval and rollback. | In progress |
+| **AWS Detection and Response Platform** (private while in progress) | Turning GuardDuty findings into enriched, consistent incident records with EventBridge, Lambda (Python), DynamoDB, S3, and SNS, provisioned with Terraform. Response actions require explicit approval and rollback. | In progress |
 | [`aws-labs`](https://github.com/NestHunter/aws-labs) | Hands-on AWS builds and troubleshooting across VPC networking, NAT, Lambda in a VPC, API Gateway, SQS, DynamoDB, EBS, and ALB. | 8 labs documented |
 | [`aws-iam-security-policies`](https://github.com/NestHunter/aws-iam-security-policies) | IAM access control assessment (identity and resource policies, ABAC, permissions boundaries) and a least-privilege policy library (SCPs, KMS, cross-account roles, VPC Flow Logs). | Active |
 
@@ -26,7 +26,7 @@ I build in public. Each project lives in its own repository with its design deci
 
 **Cloud**
 - AWS Certified Solutions Architect - Associate
-- AWS Certified Cloud Practitioner - Foundational 
+- AWS Certified Cloud Practitioner - Foundational
 
 **Security**
 - CompTIA SecurityX (formerly CASP+)
@@ -37,7 +37,7 @@ I build in public. Each project lives in its own repository with its design deci
 ## Currently
 
 - Studying for the **AWS Certified Security - Specialty (SCS-C03)**
-- Building the Detection and Response Platform one guided lab at a time, starting with a locally tested Python finding processor
+- Building the Detection and Response Platform one lab at a time: local finding processor and AWS foundation complete, GuardDuty-to-EventBridge delivery next
 
 ## Focus Areas
 
