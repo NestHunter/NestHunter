@@ -25,7 +25,8 @@ I build in public. Each project lives in its own repository with its design deci
 ## Certifications
 
 **Cloud**
-- AWS Certified Solutions Architect - Associate (SAA-C03)
+- AWS Certified Solutions Architect - Associate
+- AWS Certified Cloud Practitioner - Foundational 
 
 **Security**
 - CompTIA SecurityX (formerly CASP+)
