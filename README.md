@@ -10,15 +10,15 @@ I document my work as I build. Each project lives in its own repository with its
 
 | Project | What it demonstrates | Status |
 |---|---|---|
-| **AWS Detection and Response Platform** (private while in progress) | Turning GuardDuty findings into enriched, consistent incident records with EventBridge, Lambda (Python), DynamoDB, S3, and SNS, provisioned with Terraform. Response actions require explicit approval and rollback. | In progress |
 | [`aws-labs`](https://github.com/NestHunter/aws-labs) | Hands-on AWS builds and troubleshooting across VPC networking, NAT, Lambda in a VPC, API Gateway, SQS, DynamoDB, EBS, and ALB. | 8 labs documented |
 | [`aws-iam-security-policies`](https://github.com/NestHunter/aws-iam-security-policies) | IAM access control assessment (identity and resource policies, ABAC, permissions boundaries) and a least-privilege policy library (SCPs, KMS, cross-account roles, VPC Flow Logs). | Active |
 
 ## Building Next
 
-- **Incident investigations:** SOC alert investigations written up as case reports, covering triage, evidence, verdict, and containment reasoning.
-- **Detection rules:** Detection logic developed alongside the Detection and Response Platform, mapped to MITRE ATT&CK and tested against sample events.
-- **Python security tools:** Small, focused utilities for investigation and cloud security workflows.
+- **DAST findings triage:** A Python CLI that deduplicates scanner findings across scans, applies severity-based remediation SLAs, and produces a prioritized report.
+- **CloudTrail detection rules:** Sigma rules for high-signal AWS events, mapped to MITRE ATT&CK and tested against sample events.
+- **Secure S3 Terraform module:** Encryption, public access blocking, versioning, and access logging by default, scanned with Checkov in CI.
+- **KEV prioritizer:** Matches findings against the CISA Known Exploited Vulnerabilities catalog to decide what gets fixed first.
 
 ---
 
@@ -26,6 +26,8 @@ I document my work as I build. Each project lives in its own repository with its
 
 **Cloud**
 - AWS Certified Solutions Architect - Associate
+- HashiCorp Certified: Terraform Associate
+- AWS Certified AI Practitioner
 - AWS Certified Cloud Practitioner - Foundational
 
 **Security**
@@ -37,10 +39,11 @@ I document my work as I build. Each project lives in its own repository with its
 ## Currently
 
 - Studying for the **AWS Certified Security - Specialty (SCS-C03)**
-- Building the Detection and Response Platform one lab at a time: local finding processor and AWS foundation complete, GuardDuty-to-EventBridge delivery next
+- Building small, focused security tools, starting with DAST findings triage
 
 ## Focus Areas
 
+- Application security and vulnerability management
 - Threat detection and incident response in AWS
 - IAM, least privilege, and preventive guardrails
 - Infrastructure as Code with Terraform
